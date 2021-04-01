@@ -99,3 +99,13 @@ header nav a:hover{
     width: 45%;
     margin-left: 30px;
 }
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+
+.box-filme:hover{
+    cursor: pointer;
+}
