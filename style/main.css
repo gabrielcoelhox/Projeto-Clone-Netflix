@@ -24,10 +24,8 @@ header .container{
 }
 
 .logo{
-    color: var(--vermelho);
-    font-size: 35px;
-    margin-left: 50px;
-    margin-top: 10px;
+    margin-top: 5px;
+    margin-left: 20px;
 }
 
 /* MENU (Início, Séries, Filmes e Documentários) */
@@ -40,6 +38,21 @@ header nav a{
 
 header nav a:hover{
     color: rgb(185, 185, 185);
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+}
+nav ul,
+nav li {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+nav ul{
+    display: flex;
 }
 
 .Entrar{

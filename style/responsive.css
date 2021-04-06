@@ -1,11 +1,11 @@
-@media screen and (max-width: 700px){
+@media (max-width: 700px){
     header .container{
         display: flex;
         flex-direction: column;
     }
 }
 
-@media screen and (max-width: 735px) {
+@media (max-width: 735px) {
     main .botao{
         margin-top: 5px;
         max-width: 150px;
@@ -21,9 +21,12 @@
     .filme-principal .container{
         width: 65%;
     }
+    nav ul{
+        display:none;
+    }
 }
 
-@media screen and (max-width: 520px){
+@media (max-width: 520px){
     main .filme-principal .container{
         width: 85%;
     }
@@ -32,7 +35,7 @@
     }
 }
 
-@media screen and (max-width: 420px){
+@media (max-width: 420px){
     main .filme-principal .container{
         width: 85%;
     }
@@ -42,7 +45,7 @@
     }
 }
 
-@media screen and (max-width: 1060px) {
+@media (max-width: 1060px) {
     .descricao{
         margin-bottom: 0px;
     }
@@ -51,7 +54,7 @@
     }
 }
 
-@media screen and (min-width: 1100px){
+@media (min-width: 1100px){
     .descricao{
         width: 70%;
     }

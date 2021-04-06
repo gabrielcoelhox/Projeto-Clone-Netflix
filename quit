@@ -1,0 +1,35 @@
+[33mcommit 3b41414016c64a681a05604fbaf03d21d2720181[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: unknown <gabriel.coelhox@gmail.com>
+Date:   Mon Apr 5 19:38:57 2021 -0300
+
+    Modificando Layout e adicionando botões Login e Cadastro
+
+[33mcommit ac172edfdbdca542aa3438e55dc2728f7fdfd37e[m
+Author: unknown <gabriel.coelhox@gmail.com>
+Date:   Mon Apr 5 17:59:14 2021 -0300
+
+    Adicionando Responsividade
+
+[33mcommit b1a242128d653927abf0250e3e604bb9ddc3ff91[m
+Author: unknown <gabriel.coelhox@gmail.com>
+Date:   Thu Apr 1 15:27:11 2021 -0300
+
+    Adicionando barra de rolagem dos filmes/séries utilizando Jquery
+
+[33mcommit f5020d744db00244e331811e03e8a3c82fd01cfd[m
+Author: unknown <gabriel.coelhox@gmail.com>
+Date:   Thu Apr 1 14:19:59 2021 -0300
+
+    Modificando botões e ajustando espaçamento
+
+[33mcommit a1b35a6edb07e0887379db1fe5b451de3d0f1ff3[m
+Author: unknown <gabriel.coelhox@gmail.com>
+Date:   Wed Mar 31 18:59:29 2021 -0300
+
+    Adicionando botões e mais algumas modificações
+
+[33mcommit d79f94b85d1b14d20f3724b046ce742ed65a1c9d[m
+Author: unknown <gabriel.coelhox@gmail.com>
+Date:   Wed Mar 31 17:36:49 2021 -0300
+
+    Iniciando Projeto Netflix Clone
