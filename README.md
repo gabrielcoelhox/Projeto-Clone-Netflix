@@ -2,15 +2,15 @@
 
 # Projeto Digital Innovation One
 
-# Recriando a interface do Netflix
+## Recriando a interface do Netflix
 
 Este projeto foi proposto pela Digital Innovation One - Link do código original: https://github.com/felipeAguiarCode/netflix-clone
 
-# Descrição
+## Descrição
 
 Recrie a interface do principal site de streaming mundial utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Nesse projeto você aprenderá: como estruturar um layout, técnicas de CSS3 com containers e variáveis, como posicionar os elementos com Flexbox e como utilizar plugins Jquery a favor da sua aplicação.
 
-# Modificações implementadas
+## Modificações implementadas
 
 - Alteração do nome para GAMEFLIX;
 - Alteração da logotipo do site;
@@ -21,10 +21,12 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 - Coloquei link no botão "Início" do menu superior para chamar o "index.html";
 - Coloquei link no logotipo GAMEFLIX do menu superior para chamar o "index.html".
 
-# Melhorias futuras
+## Melhorias futuras
 
 - Adicionar funcionalidades aos botões.
 
-# Imagem do Site
+## :camera: Veja
 
 <img src="https://i.ibb.co/4fPVHH1/download.png">
+![GIF](github/animacao.gif)
+![MObile GIF](github/mobile.gif)
