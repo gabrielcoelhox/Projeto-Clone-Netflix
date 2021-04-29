@@ -32,3 +32,10 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 ## Mobile
 
 ![MObile GIF](github/mobile.gif)
+
+## O que foi utilizado?
+
+- HTML5;
+- CSS3;
+- JavaScript;
+- jQuery
