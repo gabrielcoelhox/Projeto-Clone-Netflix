@@ -27,7 +27,8 @@ Recrie a interface do principal site de streaming mundial utilizando tecnologias
 
 ## :camera: Veja
 
-<img src="https://i.ibb.co/4fPVHH1/download.png">
-
 ![GIF](github/animacao.gif)
+
+## Mobile
+
 ![MObile GIF](github/mobile.gif)
